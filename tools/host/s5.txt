@@ -1,0 +1,17 @@
+0 -
+10 a
+12 -
+20 b
+22 -
+25 star
+26 star
+30 u
+100 shot
+101 ur
+125 shot
+140 u
+200 shot
+201 da
+230 shot
+240 u
+330 shot

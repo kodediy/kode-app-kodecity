@@ -1,0 +1,11 @@
+## The Kode SDK, pinned: kode for the standard layer, kscreen for LVGL and
+## the pixel accelerator on the glass.
+dependencies:
+  kodediy/kode:
+    git: git@github.com:kodediy/kode-sdk.git
+    path: components/kode
+    version: v0.1.4
+  kodediy/kscreen:
+    git: git@github.com:kodediy/kode-sdk.git
+    path: components/kscreen
+    version: v0.1.4
